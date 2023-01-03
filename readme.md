@@ -1,13 +1,13 @@
 # Bicycle shop project "bikcraft"
 
 ## Description
-___
+
 The project is made only on HTML and CSS using responsive web design.
 
 All links are clickable.
 
 ## Some CSS transition property tricks
-___
+
 ### 1. 
    ![](https://github.com/AndreyLuchko/project-bikcraft/blob/main/files/record1.gif)
 ### 2.
