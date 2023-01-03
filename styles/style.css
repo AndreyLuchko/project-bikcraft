@@ -522,7 +522,7 @@ h1 span {
     width: 100%;
     min-height: 680px;
     background-color: var(--p1);
-    background-image: url("../img/depoimento.jpg");
+    background-image: url(../img/depoimento.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     position: relative;
@@ -559,7 +559,7 @@ h1 span {
 
 .depoimento-cite p::before {
     content: "";
-    background: url("../svg/“.svg");
+    background: url(../svg/“.svg);
     width: 40px;
     height: 35px;
     position: absolute;
@@ -569,7 +569,7 @@ h1 span {
 
 .depoimento-cite p::after {
     content: "";
-    background: url("../svg/”.svg");
+    background: url(../svg/”.svg);
     width: 40px;
     height: 35px;
     position: absolute;
@@ -701,7 +701,7 @@ h1 span {
 }
 
 .card-list li {
-    list-style-image: url("../svg/lista.svg");
+    list-style-image: url(../svg/lista.svg);
 }
 
 .card-button {
@@ -1357,7 +1357,7 @@ summary {
    list-style: none; 
 }
 .perguntas-block summary::before {
-    content: url("../svg/seta-abrir.svg");
+    content: url(../svg/seta-abrir.svg);
     position: absolute;
     top: 20px;
     right: 19px;
