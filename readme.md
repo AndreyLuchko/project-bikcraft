@@ -9,11 +9,11 @@ All links are clickable.
 ## Some CSS transition property tricks
 ___
 ### 1. 
-   ![](https://github.com/AndreyLuchko/project-bikcraft/blob/main/record1.gif)
+   ![](https://github.com/AndreyLuchko/project-bikcraft/blob/main/files/record1.gif)
 ### 2.
-![](https://github.com/AndreyLuchko/project-bikcraft/blob/main/record2.gif)
+![](https://github.com/AndreyLuchko/project-bikcraft/blob/main/files/record2.gif)
 ### 3.
-![](https://github.com/AndreyLuchko/project-bikcraft/blob/main/record3.gif)
+![](https://github.com/AndreyLuchko/project-bikcraft/blob/main/files/record3.gif)
 
 ## Built With
 
